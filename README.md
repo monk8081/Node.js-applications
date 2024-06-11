@@ -1,20 +1,18 @@
-***Design the IaC (Terraform, Aws ECS/Fargate) for Hello world Node.js app, CD pipeline using GitHub Actions***
+**Design the IaC (Terraform, Aws ECS/Fargate) for Hello world Node.js app, CD pipeline using GitHub Actions**
 
-*Project Structure and Initialization:**
+ **Project Structure and Initialization:**
     Create a new GitHub repository for your project.
     Initialize a new Node.js application.
-    Create the necessary directories and files for Terraform configuration and GitHub Actions workflows.
-   
-    
+    Create the necessary directories and files for Terraform configuration and GitHub Actions workflows.   
     
 **Node.js Application:**
-    Create a simple Node.js application that returns "Hello World" when accessed.**
+    Create a simple Node.js application that returns "Hello World" when accessed.
   
-**Dockerize the Application:
+**Dockerize the Application:**
     Create a Dockerfile to containerize the Node.js application.
   
 **Terraform Configuration:**
-     ***Configure Terraform to set up AWS resources including:
+       Configure Terraform to set up AWS resources including:
        VPC, Subnets, and Security Groups.
        ECS Cluster.
        ECS Task Definition and Service using Fargate.
