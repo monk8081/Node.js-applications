@@ -14,11 +14,11 @@
 **Terraform Configuration:**
 ![WhatsApp Image 2024-06-11 at 10 38 02_5659f2ef](https://github.com/monk8081/Node.js-applications/assets/113243067/e919dfd3-1c20-47ee-8bd0-4e38f9a1186e)
 
-       Configure Terraform to set up AWS resources including:
-       VPC, Subnets, and Security Groups.
-       ECS Cluster.
-       ECS Task Definition and Service using Fargate.
-       IAM Roles and Policies.***
+ Configure Terraform to set up AWS resources including:
+ VPC, Subnets, and Security Groups.
+ ECS Cluster.
+ ECS Task Definition and Service using Fargate.
+ IAM Roles and Policies.***
      
 **GitHub Actions Configuration:**
      Create GitHub Actions workflows for:
