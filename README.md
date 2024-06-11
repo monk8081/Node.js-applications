@@ -1,5 +1,6 @@
-**Design the IaC (Terraform, Aws ECS/Fargate) for Hello world Node.js app, CD pipeline using GitHub Actions
-*Project Structure and Initialization:*
+***Design the IaC (Terraform, Aws ECS/Fargate) for Hello world Node.js app, CD pipeline using GitHub Actions***
+
+*Project Structure and Initialization:**
 
 Create a new GitHub repository for your project.
 Initialize a new Node.js application.
